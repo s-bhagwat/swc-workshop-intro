@@ -22,12 +22,12 @@ React changes the way of building web interfaces by essentially breaking the int
 
 - [Component-Based Architecture:](https://medium.com/@dan.shapiro1210/understanding-component-based-architecture-3ff48ec0c238)  As mentioned, in a React application the whole interface is divided into smaller components. This helps in…
 
-  - **Increasing code modularity:** Simply put, in terms of the code it helps us break large blobs of code into smaller and manageable ‘pieces of code’ that are self-sustained in terms of their functionality and styling. (You’ll realise the significance of this as you start working on bigger projects with large codebases.)
+  - **Increasing code modularity:** Simply put, in terms of the code it helps us break large blobs of code into smaller and manageable `pieces of code` that are self-sustained in terms of their functionality and styling. (You’ll realise the significance of this as you start working on bigger projects with large codebases.)
 
   - **Reusability and Scalability:**  An obvious result of the previous point is that we can reuse these components wherever and however many times in your application. Thus scaling the application, adding/removing features becomes much more convenient.
 
 
-- [Client-Side Rendering:](https://medium.com/samsung-internet-dev/web-architecture-server-side-render-or-client-side-render-f16b61cd6299)  In the context of web client refers to the browser. Thus the term refers to “rendering web pages” within the browser which is done completely on the server in Server-Side Rendering.  
+- [Client-Side Rendering:](https://medium.com/samsung-internet-dev/web-architecture-server-side-render-or-client-side-render-f16b61cd6299)  In the context of web client refers to the browser. Thus the term refers to `rendering web pages` within the browser which is done completely on the server in Server-Side Rendering.  
 Watch this [video](https://www.youtube.com/watch?v=Y2spCNZDt84&t=4s) for a more detailed explanation.
 
 Don’t worry if you don’t understand all of it just yet because it may be difficult to wrap your head around these more higher-level concepts before gaining some experience in development.  
