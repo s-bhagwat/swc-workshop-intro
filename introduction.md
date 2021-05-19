@@ -2,7 +2,7 @@
 
 ## INTRODUCTION TO THE REACT LIBRARY
 
-<img alt="Logo" align="right" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40%" />
+<img alt="Logo" align="right" src="/react.svg" width="25%" />
 
 Welcome everyone, to this **React** learning program/workshop. Before getting started with the videos and reading materials let’s briefly ponder upon some of the W/H questions...
 
